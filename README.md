@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
-<h3 align="center">A full stack web developer & computer science student</h3>
+<h3 align="center">A full stack developer & computer science student</h3>
 
 - 🔭 I’m currently working on **my graduation project**
 
