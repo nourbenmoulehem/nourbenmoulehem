@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my graduation project**
 
-- 🌱 I’m currently learning **React Native, Springboot, Tensorflow, Hugging face**
+- 🌱 I’m currently learning **React Native, Springboot, NLP**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
