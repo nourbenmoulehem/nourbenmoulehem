@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
 <h3 align="center">A full stack developer & computer science student</h3>
 
-- 🔭 I’m currently working on **my graduation project**
-
-- 🌱 I’m currently learning **React Native, Springboot, NLP**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
