@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
-<h3 align="center">A full stack developer & computer science student</h3>
+<h3 align="center">A full-stack developer & computer science student</h3>
 
 
 - 👯 I’m looking to collaborate **with other developers.**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nbenmoulehom@gmail.com**
 
-- ⚡ Fun fact **I may love my cat more than I love you.**
+- ⚡ Fun fact **I work hard to provide for my cats 🐈.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
